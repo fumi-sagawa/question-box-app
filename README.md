@@ -8,8 +8,6 @@
 - Recoil
 - ESLint
 - Prettier
-- husky
-- lint-staged
 
 ## 使い方
 
